@@ -1,2 +1,2 @@
 # Jussy-Comfyui-Workflow
-Workflow made by myslef
+Workflow made by myself
